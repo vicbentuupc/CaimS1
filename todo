@@ -1,0 +1,14 @@
+canvi a CountWords
+
+
+
+
+filtro:
+    todo a minusculas
+
+    borrar palabra entera
+        simbolo: 
+        numero
+    borrar simbolo:
+        _, 
+        si tenim ', borrem les ultimes lletres
